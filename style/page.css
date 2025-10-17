@@ -38,3 +38,9 @@ body {
     background-color: lightgray;
     padding: 15px;
 }
+
+.left-paragraph,
+.right-paragraph {
+    display: flex;
+    flex-direction: row;
+}
