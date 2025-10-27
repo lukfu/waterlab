@@ -15,6 +15,10 @@ body {
     padding: 10px;
 }
 
+.dash-ul {
+    list-style-type: "- ";
+}
+
 .logo {
     height: 50px;
     width: 50px;
